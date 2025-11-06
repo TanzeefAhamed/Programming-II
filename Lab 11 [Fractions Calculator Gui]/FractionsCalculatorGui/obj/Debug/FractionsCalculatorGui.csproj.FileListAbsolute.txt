@@ -1,0 +1,10 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\bin\Debug\FractionsCalculatorGui.exe.config
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\bin\Debug\FractionsCalculatorGui.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\bin\Debug\FractionsCalculatorGui.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.csproj.AssemblyReference.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.Form1.resources
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.Properties.Resources.resources
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.csproj.GenerateResource.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 11 [Fractions Calculator Gui]\FractionsCalculatorGui\obj\Debug\FractionsCalculatorGui.pdb
