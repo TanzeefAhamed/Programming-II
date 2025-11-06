@@ -1,0 +1,4 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\AtomsClass\obj\Debug\net8.0\AtomsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\AtomsClass\obj\Debug\net8.0\AtomsClass.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\AtomsClass\obj\Debug\net8.0\AtomsClass.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\AtomsClass\obj\Debug\net8.0\AtomsClass.csproj.CoreCompileInputs.cache

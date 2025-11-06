@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\bin\Debug\net8.0\ComplexClass.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\bin\Debug\net8.0\ComplexClass.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\bin\Debug\net8.0\ComplexClass.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\bin\Debug\net8.0\ComplexClass.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\bin\Debug\net8.0\ComplexClass.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\refint\ComplexClass.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ComplexClass.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 4 [Week 4] Tanzeef\ComplexClass\obj\Debug\net8.0\ref\ComplexClass.dll

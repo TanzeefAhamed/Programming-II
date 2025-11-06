@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexClass", "ComplexClass\ComplexClass.csproj", "{61902C10-F2BD-449B-9BB7-0EE5C56AB88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomsClass", "AtomsClass\AtomsClass.csproj", "{BDF095F6-2A4E-41F0-87AF-DB48F746B7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61902C10-F2BD-449B-9BB7-0EE5C56AB88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61902C10-F2BD-449B-9BB7-0EE5C56AB88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61902C10-F2BD-449B-9BB7-0EE5C56AB88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61902C10-F2BD-449B-9BB7-0EE5C56AB88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF095F6-2A4E-41F0-87AF-DB48F746B7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF095F6-2A4E-41F0-87AF-DB48F746B7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF095F6-2A4E-41F0-87AF-DB48F746B7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF095F6-2A4E-41F0-87AF-DB48F746B7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0B8D2A-D5AE-4AA6-8C9E-B9770B6B9B69}
+	EndGlobalSection
+EndGlobal
