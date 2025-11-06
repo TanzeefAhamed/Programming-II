@@ -1,0 +1,7 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\bin\Debug\MethodSyntax.exe.config
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\bin\Debug\MethodSyntax.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\bin\Debug\MethodSyntax.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\obj\Debug\MethodSyntax.csproj.AssemblyReference.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\obj\Debug\MethodSyntax.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\obj\Debug\MethodSyntax.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 13 [Method Syntax]\MethodSyntax\obj\Debug\MethodSyntax.pdb
