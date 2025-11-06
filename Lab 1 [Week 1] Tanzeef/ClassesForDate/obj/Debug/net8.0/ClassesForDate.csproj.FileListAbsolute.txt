@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\bin\Debug\net8.0\ClassesForDate.exe
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\bin\Debug\net8.0\ClassesForDate.deps.json
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\bin\Debug\net8.0\ClassesForDate.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\bin\Debug\net8.0\ClassesForDate.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\bin\Debug\net8.0\ClassesForDate.pdb
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\refint\ClassesForDate.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.pdb
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ClassesForDate.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\ClassesForDate\obj\Debug\net8.0\ref\ClassesForDate.dll

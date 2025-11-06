@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\bin\Debug\net8.0\Lab 1 [Week 1] Tanzeef.exe
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\bin\Debug\net8.0\Lab 1 [Week 1] Tanzeef.deps.json
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\bin\Debug\net8.0\Lab 1 [Week 1] Tanzeef.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\bin\Debug\net8.0\Lab 1 [Week 1] Tanzeef.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\bin\Debug\net8.0\Lab 1 [Week 1] Tanzeef.pdb
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\refint\Lab 1 [Week 1] Tanzeef.dll
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.pdb
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\Lab 1 [Week 1] Tanzeef.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (programming)\Lab 1 [Week 1] Tanzeef\CarClass Lab\obj\Debug\net8.0\ref\Lab 1 [Week 1] Tanzeef.dll
