@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\bin\Debug\net8.0\InheritanceShapesApp.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\bin\Debug\net8.0\InheritanceShapesApp.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\bin\Debug\net8.0\InheritanceShapesApp.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\bin\Debug\net8.0\InheritanceShapesApp.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\bin\Debug\net8.0\InheritanceShapesApp.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\refint\InheritanceShapesApp.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\InheritanceShapesApp.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 5 [Week 5]\InheritanceShapesApp\obj\Debug\net8.0\ref\InheritanceShapesApp.dll
