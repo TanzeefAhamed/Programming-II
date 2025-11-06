@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\bin\Debug\net8.0\MedalColors.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\bin\Debug\net8.0\MedalColors.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\bin\Debug\net8.0\MedalColors.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\bin\Debug\net8.0\MedalColors.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\bin\Debug\net8.0\MedalColors.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\refint\MedalColors.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\MedalColors.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\MedalColors\obj\Debug\net8.0\ref\MedalColors.dll

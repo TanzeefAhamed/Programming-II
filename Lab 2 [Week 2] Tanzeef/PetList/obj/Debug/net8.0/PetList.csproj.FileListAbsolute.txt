@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\bin\Debug\net8.0\PetList.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\bin\Debug\net8.0\PetList.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\bin\Debug\net8.0\PetList.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\bin\Debug\net8.0\PetList.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\bin\Debug\net8.0\PetList.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\refint\PetList.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\PetList.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 2 [Week 2] Tanzeef\PetList\obj\Debug\net8.0\ref\PetList.dll
