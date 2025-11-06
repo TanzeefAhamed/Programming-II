@@ -1,0 +1,10 @@
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\bin\Debug\AcoountsTestApp.exe.config
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\bin\Debug\AcoountsTestApp.exe
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\bin\Debug\AcoountsTestApp.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\bin\Debug\AccountsLib.dll
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\bin\Debug\AccountsLib.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\obj\Debug\AcoountsTestApp.csproj.AssemblyReference.cache
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\obj\Debug\AcoountsTestApp.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\obj\Debug\Acoounts.6F14A87A.Up2Date
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\obj\Debug\AcoountsTestApp.exe
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AcoountsTestApp\obj\Debug\AcoountsTestApp.pdb

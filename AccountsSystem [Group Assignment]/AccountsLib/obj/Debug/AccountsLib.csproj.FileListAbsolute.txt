@@ -1,0 +1,6 @@
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\bin\Debug\AccountsLib.dll
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\bin\Debug\AccountsLib.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\obj\Debug\AccountsLib.csproj.AssemblyReference.cache
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\obj\Debug\AccountsLib.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\obj\Debug\AccountsLib.dll
+C:\Centennial Sem 2\COMP123 (Programming)\AccountsSystem [Group]\AccountsLib\obj\Debug\AccountsLib.pdb
