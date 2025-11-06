@@ -1,0 +1,28 @@
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\bin\Debug\net8.0\Time.exe
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\bin\Debug\net8.0\Time.deps.json
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\bin\Debug\net8.0\Time.dll
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\bin\Debug\net8.0\Time.pdb
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.dll
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\refint\Time.dll
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.pdb
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+C:\Users\tanze\source\repos\Lab [Week 3]\Time\obj\Debug\net8.0\ref\Time.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\bin\Debug\net8.0\Time.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\bin\Debug\net8.0\Time.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\bin\Debug\net8.0\Time.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\bin\Debug\net8.0\Time.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\refint\Time.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Time\obj\Debug\net8.0\ref\Time.dll

@@ -1,0 +1,14 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\bin\Debug\net8.0\Songs.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\bin\Debug\net8.0\Songs.deps.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\bin\Debug\net8.0\Songs.runtimeconfig.json
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\bin\Debug\net8.0\Songs.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\bin\Debug\net8.0\Songs.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.AssemblyInfoInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.AssemblyInfo.cs
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\refint\Songs.dll
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\Songs.genruntimeconfig.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab [Week 3]\Songs\obj\Debug\net8.0\ref\Songs.dll
