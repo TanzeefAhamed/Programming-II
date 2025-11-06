@@ -1,0 +1,7 @@
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\bin\Debug\QuerySyntax.exe.config
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\bin\Debug\QuerySyntax.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\bin\Debug\QuerySyntax.pdb
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\obj\Debug\QuerySyntax.csproj.AssemblyReference.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\obj\Debug\QuerySyntax.csproj.CoreCompileInputs.cache
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\obj\Debug\QuerySyntax.exe
+C:\Centennial Sem 2\COMP123 (Programming)\Lab 14 [Query Syntax]\QuerySyntax\obj\Debug\QuerySyntax.pdb
